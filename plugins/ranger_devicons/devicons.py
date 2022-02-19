@@ -237,6 +237,7 @@ dir_node_exact_matches = {
     'Notes'                            : '',
     'Blog'                             : 'ﱅ',
     'Rust'                             : '',
+    'Go'                               : '',
 # Spanish
     'Escritorio'                       : '',
     'Documentos'                       : '',
