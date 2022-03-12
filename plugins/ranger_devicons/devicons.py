@@ -232,7 +232,7 @@ dir_node_exact_matches = {
     'Public'                           : '',
     'Templates'                        : '',
     'Videos'                           : '',
-    'Github'                           : 'ﯙ',
+    'Github'                           : '',
     'Study'                            : '',
     'Notes'                            : '',
     'Blog'                             : 'ﱅ',
